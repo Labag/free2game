@@ -55,7 +55,6 @@ dependencies {
     implementation(libs.retrofit2.converter.gson)
     implementation(libs.gson)
     implementation(libs.material.icons.extended)
-    implementation(libs.compose.foundation)
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
